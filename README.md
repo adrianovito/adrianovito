@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Adriano Vito, sou arte-final em agências de publicidade 
 - 👀 Estou muito interessado em melhorar minha profissão  
 - 🌱 Atualmente estou estudando HTML, CSS, JavaScript, Lógica de Programação e mais um monte de coisas que precisa ser estudado para chegar onde eu quero, que a princípio é o Front End
-- 💞️ Onde for possível, eu estou para colaborar, ainda estou conhecendo esse mundo
+- 💞️ Onde for possível, quero colaborar, ainda estou conhecendo esse mundo
 - 📫 adrianovitogrjj@gmail.com
 
 <!---
